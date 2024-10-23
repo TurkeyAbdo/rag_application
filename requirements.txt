@@ -2,3 +2,5 @@ langchain
 langchain_community
 PyPDF2
 unstructured
+langchain_chroma
+langchain_ollama
